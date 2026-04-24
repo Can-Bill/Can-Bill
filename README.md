@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">I'm a software developer<br><br>- 🔭 I’m working as freelance<br>- 📚 I'm currently learning a tech inovation<br>- ⚡ In my free time I</p>
+<p align="center">yaworich12@gmail.com<br> +228 91 42 47 19<br>⚡ Contact me for your Python/Linux script editing, web and mobile platform creation projects.</p>
 
 ###
 
@@ -68,6 +68,10 @@ Here are some ideas to get you started:
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" alt="javascript logo"  />
   <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="44" alt="dart logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="44" alt="flutter logo"  />
+  <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" alt="nodejs logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="44" alt="laravel logo"  />
@@ -75,6 +79,18 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" alt="nextjs logo"  />
   <img width="13" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="44" alt="docker logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="44" alt="figma logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="44" alt="gimp logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="44" alt="photoshop logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="44" alt="trello logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="44" alt="r logo"  />
+  <img width="13" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="44" alt="wordpress logo"  />
 </div>
 
 ###
@@ -90,12 +106,20 @@ Here are some ideas to get you started:
 
 ###
 
-<img src="https://raw.githubusercontent.com/Can-Bill/Can-Bill/output/snake.svg" alt="Snake animation" />
-
-###
-
 <div align="center">
   <img src="https://count.getloli.com/@:Can-Bill?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
+
+###
+
+<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1ZjYyM3IyeWJzMDh5dm1rdXp5N2JlZzdydGtyd3o3NW12b3VtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif"  />
+
+###
+
+<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ3dTE2ZXF1eXp2Z3hia3R3aHNjazRheWNubnVmcWo2aWIwczlmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGlAZysKBcjRCkAX7S/giphy.gif"  />
+
+###
+
+<img align="left" widht= "100" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlvYTF6emx3M2o4aGFucDliNHdyYnowNXM4eGplOHg2ZGdtcmppeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif"  />
 
 ###

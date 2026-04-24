@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="195" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="350" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
@@ -109,13 +109,5 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://count.getloli.com/@:Can-Bill?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
-
-###
-
-<img align="left" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzI1ZjYyM3IyeWJzMDh5dm1rdXp5N2JlZzdydGtyd3o3NW12b3VtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/coxQHKASG60HrHtvkt/giphy.gif"  />
-
-###
-
-<img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ3dTE2ZXF1eXp2Z3hia3R3aHNjazRheWNubnVmcWo2aWIwczlmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGlAZysKBcjRCkAX7S/giphy.gif"  />
 
 ###

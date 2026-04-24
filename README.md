@@ -13,26 +13,26 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img height="350" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="200" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="25" alt="telegram logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=plastic" height="31" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=plastic" height="31" alt="telegram logo"  />
   <a href="yaworich12@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=plastic" height="31" alt="gmail logo"  />
   </a>
   <a href="+228 91 42 47 19" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="25" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=plastic" height="31" alt="whatsapp logo"  />
   </a>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Can-Bill.Can-Bill&"  />
+  <img src="https://count.getloli.com/@:Can-Bill?theme=3d-num&padding=9&offset=0&scale=1.1&align=center&pixelated=1&darkmode=0"  />
 </div>
 
 ###
@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="center">yaworich12@gmail.com<br> +228 91 42 47 19<br>⚡ Contact me for your Python/Linux script editing, web and mobile platform creation projects.</p>
+<h3 align="center">yaworich12@gmail.com<br> +228 91 42 47 19<br>⚡ Contact me for your Python/Linux script editing, web and mobile platform creation projects.</h3>
 
 ###
 
@@ -100,14 +100,8 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Can-Bill&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Can-Bill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://count.getloli.com/@:Can-Bill?theme=rule34&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Can-Bill&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="153" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Can-Bill&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="164" alt="languages graph"  />
 </div>
 
 ###

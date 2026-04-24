@@ -119,7 +119,3 @@ Here are some ideas to get you started:
 <img align="left" height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnZ3dTE2ZXF1eXp2Z3hia3R3aHNjazRheWNubnVmcWo2aWIwczlmNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rGlAZysKBcjRCkAX7S/giphy.gif"  />
 
 ###
-
-<img align="left" widht= "100" height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlvYTF6emx3M2o4aGFucDliNHdyYnowNXM4eGplOHg2ZGdtcmppeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/vISmwpBJUNYzukTnVx/giphy.gif"  />
-
-###
